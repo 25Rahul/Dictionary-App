@@ -1,4 +1,5 @@
-# MultiChat-Application
+# Dictionary App
 
-Computer Networks Mini Project
-|CONCEPT - Socket Programming 
+An interesting dictionary app made with the help of an API.
+
+
